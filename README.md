@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruchita 
+- 👋 Hi, I’m Ruchita 
 - 👀 I’m interested in creating front-end, back-end projects and projects related to Salesforce
 - 🌱 I’m currently learning Salesforce
 - 💞️ I’m looking to collaborate on different technologies, web and cloud services
